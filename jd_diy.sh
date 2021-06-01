@@ -46,7 +46,7 @@ function main(){
     # DIY脚本
     a_jsnum=$(ls -l /scripts | grep -oE "^-.*js$" | wc -l)
     a_jsname=$(ls -l /scripts | grep -oE "^-.*js$" | grep -oE "[^ ]*js$")
-    monkcoder
+    #monkcoder
     whyour
     nianyuguai
     zcy01
